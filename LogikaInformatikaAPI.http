@@ -1,0 +1,6 @@
+@LogikaInformatikaAPI_HostAddress = http://localhost:5138
+
+GET {{LogikaInformatikaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
